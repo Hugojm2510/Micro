@@ -1,0 +1,9 @@
+
+Primera estructura
+
+Stack
+|_ Login
+|_ Registro
+|_ TabNavigation
+	|_ HomeScreen
+	|_ SettingScreen
